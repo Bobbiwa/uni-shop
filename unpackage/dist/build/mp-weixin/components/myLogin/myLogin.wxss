@@ -1,0 +1,1 @@
+.login-container{display:flex;flex-direction:column;align-items:center;justify-content:center;height:750rpx;background-color:#f8f8f8}.login-container .login-btn{width:90%;border-radius:200rpx;margin:30rpx 0;background-color:#c00000}.login-container .login-tips{font-size:24rpx;color:grey}
